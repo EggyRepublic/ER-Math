@@ -143,6 +143,5 @@ public class Euler extends Vector {
 	@Override 
 	public String toString() {
 		return Util.simpleEuler(this);
-		//return "(" + this.getX() + ", " + this.getY() + ", " + this.getZ() + ")";
 	}
 }
