@@ -9,7 +9,7 @@ public class Main extends JavaPlugin implements Listener {
 	public void onEnable() {
 		getServer().getPluginManager().registerEvents(this, this);
 		getLogger().info("Enabling ER Math");
-		getLogger().info("ER Math, by EggyRepublic 2020");
+		getLogger().info("ER Math, by EggyRepublic 2021");
 	}
 
 	@Override
